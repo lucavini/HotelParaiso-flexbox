@@ -1,5 +1,5 @@
 # HotelParaiso-flexbox
-Project do learing e pratic flex-box design
+Project do learing e pratic <strong>flex-box design</strong>
 
 ## About the project
 
